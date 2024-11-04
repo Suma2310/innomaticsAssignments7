@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/innomaticsAssignments7/static/css/main.a6d7cd13.css",
-    "main.js": "/innomaticsAssignments7/static/js/main.8f7d2167.js",
+    "main.js": "/innomaticsAssignments7/static/js/main.92a5cb8b.js",
     "static/js/453.e126cb15.chunk.js": "/innomaticsAssignments7/static/js/453.e126cb15.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/innomaticsAssignments7/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/innomaticsAssignments7/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/innomaticsAssignments7/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/innomaticsAssignments7/index.html",
     "main.a6d7cd13.css.map": "/innomaticsAssignments7/static/css/main.a6d7cd13.css.map",
-    "main.8f7d2167.js.map": "/innomaticsAssignments7/static/js/main.8f7d2167.js.map",
+    "main.92a5cb8b.js.map": "/innomaticsAssignments7/static/js/main.92a5cb8b.js.map",
     "453.e126cb15.chunk.js.map": "/innomaticsAssignments7/static/js/453.e126cb15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6d7cd13.css",
-    "static/js/main.8f7d2167.js"
+    "static/js/main.92a5cb8b.js"
   ]
 }
