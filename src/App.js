@@ -12,7 +12,7 @@ import './App.css'; // Import the global styles
 function App() {
     return (
         
-        <Router basename="/">
+        <Router basename="/innomaticsInternship7">
             <nav>
                 <NavLink to="/" end>Home</NavLink>
                 <NavLink to="/about">About</NavLink>
