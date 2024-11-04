@@ -1,0 +1,23 @@
+.services-container {
+    padding: 40px;
+    background-color: #fff;
+    color: #333;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.services-nav {
+    margin: 20px 0;
+}
+
+.service-link {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0a0a0a; /* Blue color for links */
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.service-link:hover {
+    color: #f6f8fa; /* Darker blue on hover */
+}
