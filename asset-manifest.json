@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Suma2310/innomaticsAssignments7/static/css/main.f31acb0f.css",
-    "main.js": "/Suma2310/innomaticsAssignments7/static/js/main.1e86d270.js",
+    "main.js": "/Suma2310/innomaticsAssignments7/static/js/main.4cabf279.js",
     "static/js/453.e126cb15.chunk.js": "/Suma2310/innomaticsAssignments7/static/js/453.e126cb15.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Suma2310/innomaticsAssignments7/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Suma2310/innomaticsAssignments7/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Suma2310/innomaticsAssignments7/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Suma2310/innomaticsAssignments7/index.html",
     "main.f31acb0f.css.map": "/Suma2310/innomaticsAssignments7/static/css/main.f31acb0f.css.map",
-    "main.1e86d270.js.map": "/Suma2310/innomaticsAssignments7/static/js/main.1e86d270.js.map",
+    "main.4cabf279.js.map": "/Suma2310/innomaticsAssignments7/static/js/main.4cabf279.js.map",
     "453.e126cb15.chunk.js.map": "/Suma2310/innomaticsAssignments7/static/js/453.e126cb15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f31acb0f.css",
-    "static/js/main.1e86d270.js"
+    "static/js/main.4cabf279.js"
   ]
 }
